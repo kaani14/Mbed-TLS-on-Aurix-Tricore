@@ -103,4 +103,4 @@ openssl s_client -connect 192.XXX.X.XX:443 -CAfile server.crt
 ```
 The port is defined in `Echo.c`.
 
-The server.crt is on the main folder of the repository.
+The `server.crt` is in the main folder of the repository.
